@@ -25,3 +25,5 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
+
+notes/pytest_tests
